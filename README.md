@@ -1,6 +1,6 @@
 ## 📚 RAG MCP
 
-This repository contains the RAG MCP (Retrieval-Augmented Generation Multi-Channel Platform) server, a specialized microservice within the Multi-Agent Bot system. Its primary function is to provide tools for interacting with a vector database (ChromaDB) to perform Retrieval-Augmented Generation (RAG). This allows agents to query custom knowledge bases and retrieve relevant information to enhance their responses.
+This repository contains the RAG MCP (Model context protocol) server, a specialized microservice within the Multi-Agent Bot system. Its primary function is to provide tools for interacting with a vector database (ChromaDB) to perform Retrieval-Augmented Generation (RAG). This allows agents to query custom knowledge bases and retrieve relevant information to enhance their responses.
 
 ## ✨ Features
 
