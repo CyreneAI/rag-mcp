@@ -3,4 +3,5 @@ chromadb
 sentence-transformers
 langchain_chroma
 langchain_huggingface
-pypdf
+langchain
+langchain-core
